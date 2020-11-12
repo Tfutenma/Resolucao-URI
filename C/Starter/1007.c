@@ -20,4 +20,6 @@ int main()
       scanf("%d", &d);
       diferenca = (a * b) - (c * d);
       printf("DIFERENCA = %d\n", diferenca);
+
+      return 0;
 }

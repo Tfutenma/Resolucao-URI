@@ -19,5 +19,7 @@ int main()
 
       salario = horas * multiplo;
       printf("NUMBER = %d\n", numero);
-      printf("SALARY = %.2f\n", salario);
+      printf("SALARY = U$ %.2f\n", salario);
+
+      return 0;
 }
